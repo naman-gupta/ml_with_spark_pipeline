@@ -24,7 +24,7 @@ This project is implemented using Pyspark API. Minimal feature engineering is do
     ```
 2. Create and activate virtual enviroment
      ```
-        cd data_challange_2019
+        cd remerge_data_challenge
         virtualenv .
         source bin/activate
      ```
