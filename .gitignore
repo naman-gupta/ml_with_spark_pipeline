@@ -1,6 +1,7 @@
 *.model
 *.idea
 *.Python
+*.zip
 lib/
 bin/
 include/
