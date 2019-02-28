@@ -8,9 +8,9 @@ This project is implemented using Pyspark API. Minimal feature engineering is do
 4. Prediction phase reads the saved model and predicts the most likely (highest probable) conversion_event
 5. Possible modification to improve the classification
     * Using Better feature representation scheme for categorical values like TF-IDF, Word2Vec
-    * Vectors are sparse and have very high dimentionality. Methods like PCA, LDA could be used to reduce dimensions
+    * Vectors are sparse and have very high dimensionality. Methods like PCA, LDA could be used to reduce dimensions
     * Better selection of training algorithm.
-    * Performing GridSearch for selecting best paramater
+    * Performing GridSearch for selecting best parameter
     
 # Running Project
 1. Clone this repository
