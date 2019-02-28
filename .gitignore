@@ -1,0 +1,7 @@
+*.model
+*.idea
+*.Python
+lib/
+bin/
+include/
+share/
