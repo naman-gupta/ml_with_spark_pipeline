@@ -15,7 +15,7 @@ This project is implemented using Pyspark API. Minimal feature engineering is do
 # Running Project
 1. Clone this repository
      ```
-        git clone https://github.com/naman-gupta/remerge_data_challenge.git 
+        git clone https://github.com/naman-gupta/ml_with_spark_pipeline.git 
     ```
 2. Install `virtualenv` 
     ```
